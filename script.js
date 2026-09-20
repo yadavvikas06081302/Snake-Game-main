@@ -163,3 +163,21 @@ function resetGame(){
             direction="right"
         }
     })
+function changeDirection(dir) {
+
+    if (dir === "up" && direction !== "down") {
+        direction = "up";
+    }
+
+    if (dir === "down" && direction !== "up") {
+        direction = "down";
+    }
+
+    if (dir === "left" && direction !== "right") {
+        direction = "left";
+    }
+
+    if (dir === "right" && direction !== "left") {
+        direction = "right";
+    }
+}
