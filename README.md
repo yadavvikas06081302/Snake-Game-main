@@ -4,7 +4,7 @@ A classic Snake game built with plain **HTML, CSS, and JavaScript** — no frame
 
 ## 🎮 Demo
 
-
+https://yadavvikas06081302.github.io/Snake-Game-main/
 
 ## ✨ Features
 
